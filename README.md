@@ -1,2 +1,2 @@
-# portfolioqa
-This is a my personal portfolio of qa projects.
+# Portfolio QA 
+This is a my personal portfolio of QA projects.
