@@ -19,7 +19,7 @@ h1 {
     margin-bottom: 1rem;
 }
 
-p {
+p,ul {
     font-size: 1.1rem; 
     margin-bottom: 1.5rem;
 }
