@@ -24,6 +24,10 @@ p {
     margin-bottom: 1.5rem;
 }
 
+p.subtitle {
+    font-size: 20px;
+}
+
 a {
     color: #3498db;
     text-decoration: none;
