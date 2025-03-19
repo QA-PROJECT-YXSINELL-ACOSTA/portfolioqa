@@ -65,6 +65,4 @@ Release will be consider ready when:
 
 ## AUTHOR
 Acosta Zambrano Yxsinell, QA Jr.
-[LinkedIn Profile][def]
-
-[def]: "www.linkedin.com/in/yxsinell-acosta-92a533354"
+[LinkedIn Profile](www.linkedin.com/in/yxsinell-acosta-92a533354)
